@@ -326,13 +326,3 @@ Interactive web applications
 📜 License
 
 This project is created for educational and hackathon purposes.
-
-
-### Then save it.
-
-**Do NOT add anything else to `README.md`.**
-
-Then, in PowerShell, run only these commands:
-
-```powershell
-git status
